@@ -1,1 +1,3 @@
-# swift-api-manager
+# APIManager
+
+A description of this package.
